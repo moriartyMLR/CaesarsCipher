@@ -1,0 +1,11 @@
+componets:
+    three inputs, swap direction, steps, and message
+
+    logic to change each letter, from message, according to direction and number of steps
+    and returning a new string?
+
+lgoic layout:
+    loop over message:
+        get ascii value for i
+        add steps to ascii value
+        return new letter to new string
