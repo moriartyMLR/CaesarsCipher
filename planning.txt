@@ -9,3 +9,4 @@ lgoic layout:
         get ascii value for i
         add steps to ascii value
         return new letter to new string
+        
